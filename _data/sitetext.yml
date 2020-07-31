@@ -30,27 +30,27 @@ timeline:
     text: 
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Undergrad - Vellore Institute of Technology"
+        year: "2010-2014"
+        desc: "Undergrad in Electronics and Communication Engineering with a minor in Industrial Automation"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "System Engineer - Yokogawa India Limited"
+        year: "2014-2018"
+        desc: "Worked as a "
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Masters - Purdue University"
+        year: "2018-2019"
+        desc: "Masters in Business Analytics and Information Management"
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Database/Applications Analyst - Salud Revenue Partners"
+        year: "2019-Present"
+        desc: ""
         image: assets/img/timeline/4.jpg
         alt: 
         align: right

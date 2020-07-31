@@ -21,7 +21,7 @@ services:
 
 portfolio:
     title: "Projects"
-    text: "xxx"
+    text: ""
     section: Projects
     
 

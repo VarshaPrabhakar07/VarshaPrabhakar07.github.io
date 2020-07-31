@@ -54,6 +54,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
+    end: 
 
 about:
     title: "About Us"

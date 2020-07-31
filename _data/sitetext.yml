@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "xxx"
     section: services
     list:
       - title: "E-Commerce"
@@ -21,13 +21,13 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "xxx"
     section: portfolio
     
 
 timeline:
     title: "About" 
-    text: "Lorem ipsum timeline"
+    text: 
     section: timeline
     events:
       - title: "Our Humble Beginnings"

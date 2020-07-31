@@ -5,9 +5,9 @@ header:
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
-    title: "Services"
+    title: "Skills"
     text: "xxx"
-    section: services
+    section: skills
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -20,9 +20,9 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
+    title: "Projects"
     text: "xxx"
-    section: portfolio
+    section: Projects
     
 
 timeline:
@@ -63,7 +63,7 @@ about:
 
 
 contact:
-    title: "Contact Us"
+    title: "Contact Me"
     # text: "Lorem ipsum or call 123456789"
     section: contact
     

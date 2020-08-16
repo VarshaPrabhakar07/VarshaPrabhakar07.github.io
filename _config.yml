@@ -44,15 +44,15 @@ description: "Varsha Prabhakar Personal Blog"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: Twitter
+  - title: twitter
     url: https://twitter.com/Varsha_P07
   # - title: facebook
   #   url:
-  - title: LinkedIn
+  - title: linkedIn
     url: https://linkedin.com/varshaprabhakar07
-  - title: Github
+  - title: github
     url: https://github.com/VarshaPrabhakar07
-  - title: Tableau
+  - title: tableau
     url: https://public.tableau.com/profile/varsha.prabhakar#!/
 
 # Postal address (add as many lines as necessary)

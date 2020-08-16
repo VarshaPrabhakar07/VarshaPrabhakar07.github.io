@@ -44,21 +44,21 @@ description: "Varsha Prabhakar Personal Blog"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: Twitter
+    url: https://twitter.com/Varsha_P07
+  # - title: facebook
+  #   url:
+  - title: LinkedIn
+    url: https://linkedin.com/varshaprabhakar07
+  - title: Github
+    url: https://github.com/VarshaPrabhakar07
+  - title: Tableau
+    url: https://public.tableau.com/profile/varsha.prabhakar#!/
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+# address:
+#   - line: 3481 Melrose Place
+#   - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown

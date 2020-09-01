@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Social Listening for Movie Makers
+subtitle: Python
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Performed sentiment analysis using Microsoft Azure API on YouTube trailer comments for the top 100 movies of 2017 scraped from IMDB, which is then used to predict the sales of a particular movie. The keyword analysis can be utilized to target the marketing campaign for the movie 
 
 ---

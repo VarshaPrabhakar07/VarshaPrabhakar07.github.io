@@ -1,8 +1,9 @@
 ---
-title: Demand Forecasting                  
+title: Demand Forecasting  egdgdjwbdjbjbfjwbjwdkqhdkhdkhdkbvjdvbjbsckbqkdbq                
 subtitle: R
 layout: default
 modal-id: 3
+file: 3.pdf
 date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png

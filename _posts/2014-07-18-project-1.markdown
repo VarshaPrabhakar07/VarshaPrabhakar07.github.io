@@ -3,6 +3,7 @@ title: AGRO (AGri-business Recommendation Optimization Engine)
 subtitle: R
 layout: default
 modal-id: 1
+file: 1.pdf
 date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png

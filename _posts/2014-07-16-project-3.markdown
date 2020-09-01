@@ -1,5 +1,5 @@
 ---
-title: Demand Forecasting  egdgdjwbdjbjbfjwbjwdkqhdkhdkhdkbvjdvbjbsckbqkdbq                
+title: Demand Forecasting                
 subtitle: R
 layout: default
 modal-id: 3

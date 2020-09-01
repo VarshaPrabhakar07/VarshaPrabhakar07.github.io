@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: We built an intelligent agribusiness recommendation system
+description: We built an intelligent agribusiness recommendation optimization engine - AGRO, developed to support an agri-science company's marketing team to identify potentinal customers, understand market needs and provide customized and accurate marketing recommendations regarding individual farmers.
 
 ---

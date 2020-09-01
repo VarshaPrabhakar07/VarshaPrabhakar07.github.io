@@ -1,5 +1,5 @@
 ---
-title: AGRO - AGri-business Recommendation Optimization Engine
+title: AGRO (AGri-business Recommendation Optimization Engine)
 subtitle: R
 layout: default
 modal-id: 1

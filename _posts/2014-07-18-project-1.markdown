@@ -3,13 +3,13 @@ title: AGRO: An AGri-business Recommendation Optimization Engine for Sales Growt
 subtitle: R
 layout: default
 modal-id: 1
-date: January 2019
+date: 2014-07-18
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: 
-client: 
-category: Web Development
-description: We built an intelligent agribusiness recommendation optimization engine – AGRO, developed to support an agri-science company’s marketing team to identify potential customers, understand market needs, and provide customized and accurate marketing recommendations regarding individual farmers. 
+<!-- project-date:  -->
+<!-- client:  -->
+<!-- category: Web Development -->
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---

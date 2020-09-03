@@ -5,9 +5,8 @@ layout: default
 modal-id: 2
 file: 2.pdf
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
+img: 2.jpg
+thumbnail: 2.jpg
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

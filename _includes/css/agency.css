@@ -288,7 +288,7 @@ header .intro-text .intro-lead-in {
     font-family: {{ site.data.template.font.secondary }};
     font-size: 22px;
     font-style: italic;
-    line-height: 22px;
+    /*line-height: 22px;*/
 }
 
 header .intro-text .intro-heading {
@@ -297,7 +297,7 @@ header .intro-text .intro-heading {
     font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
     font-weight: 500;
-    line-height: 50px;
+    /*line-height: 50px;*/
 }
 
 @media(min-width:768px) {
@@ -311,7 +311,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.secondary }};
         font-size: 40px;
         font-style: italic;
-        line-height: 40px;
+        /*line-height: 40px;*/
     }
 
     header .intro-text .intro-heading {
@@ -320,7 +320,7 @@ header .intro-text .intro-heading {
         font-family: {{ site.data.template.font.primary }};
         font-size: 30px;
         font-weight: 500;
-        line-height: 75px;
+        /*line-height: 75px;*/
     }
 }
 

@@ -3,7 +3,7 @@ title: Demand Forecasting
 subtitle: R
 layout: default
 modal-id: 3
-file: 3.pdf
+file: img/3.pdf
 date: 2014-07-16
 img: 3.jpg
 thumbnail: 3.jpg

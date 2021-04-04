@@ -1,0 +1,16 @@
+---
+title: Season Ticket Renewal Prediction
+subtitle: Python
+layout: default
+modal-id: 2
+file: 2.pdf
+date: 2014-07-17
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: A major concern for these teams is the churn of existing season ticket holders. Actual renewal data for the season ticket holders of an NFL team was tracked against previous year’s data to find out any pattern for non-renewal of season tickets.
+
+---

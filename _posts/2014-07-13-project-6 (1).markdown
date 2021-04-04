@@ -1,0 +1,16 @@
+---
+title: Social Listening for Movie Makers
+subtitle: Python
+layout: default
+modal-id: 4
+file: 4.pdf
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Performed sentiment analysis using Microsoft Azure API on YouTube trailer comments for the top 100 movies of 2017 scraped from IMDB, which is then used to predict the sales of a particular movie. The keyword analysis can be utilized to target the marketing campaign for the movie 
+
+---
